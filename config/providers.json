@@ -1,0 +1,8 @@
+{
+  "providers": [
+    "ebay",
+    "reddit",
+    "craigslist",
+    "facebook"
+  ]
+}
